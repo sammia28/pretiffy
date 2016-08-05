@@ -42,15 +42,23 @@ nav{
     color: #8F03E3;
     text-align: center;
 }
+.cat2{
+    padding-left: 10%;
+}
 .cat{
 	border-radius: 100%;
     padding: 5px;
     border: 3px solid #B151EB;
+    float: left;
 }
 .pie{
 	background-image: url(../images/tile2.png);
 	height: 500px;
 }
+.social{
+    padding-left: 35%;
+}
 .red{
+    float: left;
 
 }
